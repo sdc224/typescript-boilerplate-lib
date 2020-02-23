@@ -1,24 +1,24 @@
 {
-  "name": "hangouts-interact",
-  "version": "1.0.0",
-  "description": "A Repository for doing hangouts messages",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"No test specified\""
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/sdc224/hangouts-interact.git"
-  },
-  "keywords": [
-    "hangouts",
-    "typescript",
-    "nodejs"
-  ],
-  "author": "sdc224",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/sdc224/hangouts-interact/issues"
-  },
-  "homepage": "https://github.com/sdc224/hangouts-interact#readme"
+	"name": "hangouts-interact",
+	"version": "1.0.0",
+	"description": "A Repository for doing hangouts messages",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"No test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/sdc224/hangouts-interact.git"
+	},
+	"keywords": [
+		"hangouts",
+		"typescript",
+		"nodejs"
+	],
+	"author": "sdc224",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/sdc224/hangouts-interact/issues"
+	},
+	"homepage": "https://github.com/sdc224/hangouts-interact#readme"
 }
